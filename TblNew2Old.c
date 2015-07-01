@@ -1,4 +1,6 @@
 /*******************************************************************************************
+ * :wq!
+ * o
  *  Copyright 2011, Shanghai Huateng Software Systems Co., Ltd.
  *  All right reserved.
  *
