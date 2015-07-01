@@ -647,6 +647,7 @@ int mappingEnd(){
     }
 }
 
+/* for git test */
 int main(int argc, char **argv)
 {
 
